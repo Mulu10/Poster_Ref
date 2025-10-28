@@ -14,6 +14,8 @@
 14.	Hirchak, K. A., Oluwoye, O., Nadeau, M., Richardson, M., Bajet, K., Brigman, M., Herron, J. L., Hernandez-Vallant, A., Vasquez, A., Pham, C., Oliver, K. A., Baukol, P., Webb, K., Belone, L., McDonell, M. G., Venner, K. L., & Campbell, A. N. C. (2023). Coming together for something good: Recommendations from a scoping review for dissemination and implementation science to improve indigenous substance use disorder treatment. Frontiers in Public Health, 11. https://doi.org/10.3389/fpubh.2023.1265122
 15.	Sacca, L., Shegog, R., Hernandez, B., Peskin, M., Rushing, S. C., Jessen, C., Lane, T., & Markham, C. (2022). Barriers, frameworks, and mitigating strategies influencing the dissemination and implementation of health promotion interventions in indigenous communities: A scoping review. Implementation Science, 17(1), 18. https://doi.org/10.1186/s13012-022-01190-y
 16.	Michie, S., van Stralen, M.M. & West, R. (2011). The behaviour change wheel: A new method for characterising and designing behaviour change interventions. Implementation Sci, 6 (42). https://doi.org/10.1186/1748-5908-6-42
+17.	O’Chiese, Peter-baa; Goodstriker, Rufus-baa; Manitowabi, Edna; and Kirkness, Verna. Teachings on the Four R’s of Indigenous Research. Shared with Kathy Bird and Laura Horton, who shared with the authors, Kenora, Ontario, Oral knowledge lineage cited with permission
+
 
 
 
